@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AnimTraceVisualizer",
+	"Description": "Visualize the AnimTrace information of UrealEnine.",
+	"Category": "Other",
+	"CreatedBy": "Yunxor",
+	"CreatedByURL": "https://github.com/Yunxor/AnimTraceVisualizer",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AnimTraceVisualizer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
